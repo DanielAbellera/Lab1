@@ -6,5 +6,5 @@ How to run:
   1. Download zip
   2. Import Java Project your IDE
   3. Run Code
-  4. Input your guess into the terminal
+  4. Input your guess into the console
   5. Enjoy!
