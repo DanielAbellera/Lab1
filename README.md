@@ -5,7 +5,7 @@ A simple game which lets the player guess a number between 1 and 100, gives a cl
 How to run:
   1. Download zip
   2. Import Java Project your IDE
-  3. Run Code
+  3. Run Main
   4. Input your guess into the console
   5. Enjoy!
 
