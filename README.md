@@ -8,3 +8,8 @@ How to run:
   3. Run Code
   4. Input your guess into the console
   5. Enjoy!
+
+Made by:
+  60310062 – Daniel Abellera 
+  60309769 – Lorenzo Baldago
+  Jan-18-2026
